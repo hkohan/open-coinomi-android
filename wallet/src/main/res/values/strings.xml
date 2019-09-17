@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">Coinomi (dev)</string>
-    <string name="app_package" translatable="false">com.coinomi.wallet.dev</string>
+    <string name="app_name" translatable="false">کوینومی</string>
+    <string name="app_package" translatable="false">com.kohan.coinomi</string>
     <string name="coinomi_website" translatable="false">https://coinomi.com</string>
     <string name="almost_equal_to" translatable="false">≈</string>
     <string name="action_scan_qr_code">Scan</string>
